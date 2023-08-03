@@ -1,7 +1,8 @@
-a = int(input())
-b = int(input())
+def summ(a, b):
+    summ = a + b
+    return summ
 
-summ = a+b
-subtraction = a-b
-print(summ)
-print(subtraction)
+
+def subtraction(a, b):
+    subtraction = a - b
+    return subtraction
