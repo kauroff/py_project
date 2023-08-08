@@ -1,8 +1,6 @@
 def summ(a, b):
-    summ = a + b
-    return summ
+    return a + b
 
 
 def subtraction(a, b):
-    subtraction = a - b
-    return subtraction
+    return a - b
